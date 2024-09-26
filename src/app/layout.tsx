@@ -5,6 +5,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import Header from "./components/header";
 import Providers from "./components/provider";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -48,6 +49,7 @@ export default function RootLayout({
           <Header />
           <Providers>{children}</Providers>
         </ChakraProvider>
+        <Analytics />
       </body>
     </html>
   );

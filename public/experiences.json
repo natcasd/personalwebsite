@@ -1,0 +1,80 @@
+{
+  "experiences": [
+    {
+      "company": "INMTEL",
+      "title": "Data Engineer Intern",
+      "timerange": "June 2024 to Present",
+      "type": "internship",
+      "achievements": [
+        "Prepared news websites for input into web-scraping system",
+        "Created data pipeline to convert web-scraping data into a consistent, readable format for use by language model",
+        "Remodeled website to be more clear and concise and better suit the theme of the company"
+      ]
+    },
+    {
+      "company": "1010Data",
+      "title": "Data Integrity Intern",
+      "timerange": "June 2023 to August 2023",
+      "type": "internship",
+      "achievements": [
+        "Implemented over 4000 data quality checks on 25 tables in 4 consumer-facing fixed income datasets",
+        "Revised algorithm that generates data quality checks to be more efficient and effective",
+        "Presented results to 50+ employees including c-suite, outlining how my process can be used on additional datasets to prevent faulty data from reaching clients"
+      ]
+    },
+    {
+      "company": "Shay Capital",
+      "title": "Analyst Intern",
+      "timerange": "June 2022 to August 2022",
+      "type": "internship",
+      "achievements": [
+        "Developed a risk management application that extracts and analyzes trading data from the corporate portfolio management system, reducing time that manager spent compiling reports by 90 percent",
+        "Created repeatable analysis of daily broker margin data for CFO in Microsoft Excel to optimize capital efficiency",
+        "Interviewed macro, commodities, and equities traders to learn their trading strategies and approach to markets",
+        "Conducted research on companies, documented broker market outlook calls and earnings predictions"
+      ]
+    },
+    {
+      "company": "Katherine Moran Aquatic Center",
+      "title": "Lifeguard",
+      "timerange": "September 2021 to May 2022",
+      "type": "job",
+      "achievements": [
+        "Responsible for managing pool activities and keeping patrons safe. Oversaw athletic practices and events.",
+        "Worked with lifeguards and managers to maintain facilities, communicate issues, and delegate shift coverage"
+      ]
+    },
+    {
+      "company": "Revival Butchery",
+      "title": "Butcher's Assistant",
+      "timerange": "August 2020 to January 2021",
+      "type": "job",
+      "achievements": [
+        "Worked as a butcher's assistant at a popular shop in my hometown."
+      ]
+    },
+
+    {
+      "company": "Brown University Men's Swimming and Diving",
+      "title": "Swimmer",
+      "timerange": "January 2021 to February 2024",
+      "type": "extracurricular",
+      "achievements": [
+        "NCAA Division I student-athlete training and competing 20-30 hours per week",
+        "Top 5 all-time performer in 100 butterfly, top 10 in 100 freestyle",
+        "Participated in multiple Swim Across America fundraisers benefiting cancer research"
+      ]
+    },
+    {
+      "company": "Brown Derivatives Investment Group",
+      "title": "Chief Investment Officer",
+      "timerange": "January 2023 to May 2024",
+      "type": "extracurricular",
+      "achievements": [
+        "Manage club portfolio, trading a variety of derivatives on TD Ameritrade Think or Swim platform",
+        "Present portfolio updates at each meeting",
+        "Founding member, grew club to 50+ members"
+      ]
+    }
+  ]
+}

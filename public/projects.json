@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "title": "Earnings Predictor",
+      "language": ["python"],
+      "description": "I created a model to determine stock earnings prediction beats and misses. Using historical earnings and additional data on a stock it outputs a score between -1 and 1 indicating whether it will be a beat or a miss and to what extent.",
+      "link": "https://github.com/natcasd/ml_capstone",
+      "emoji": "🤖"
+    },
+    {
+      "title": "TravelText",
+      "language": ["typescript", "next.js", "node.js", "mongodb"],
+      "description": "I created a website for documenting travel ideas. It allows for creating location nodes that can be linked together to create a plan of activities you could do on an afternoon. The trails are displayed in a thoughtful manner for browsing. WARNING: on first load it takes a while to connect to the backend and you may need to refresh, but it's worth the wait!",
+      "link": "https://travel-text.vercel.app/",
+      "emoji": "🚞"
+    },
+    {
+      "title": "Food Segmenter and Classifier",
+      "language": ["python"],
+      "description": "I created an ensemble model that segments different food on a plate using the Meta Segment Anything model and identifies each segment using a fine-tuned Inception Resnet V2 model made with Tensorflow.",
+      "link": "https://github.com/natcasd/YourFoodFriends",
+      "emoji": "🍔"
+    },
+    {
+      "title": "PokerNow Ledger Calculator",
+      "language": ["python", "next.js", "flask"],
+      "description": "I created an algorithm to parse an online poker site's game results and transform it into a ledger, indicating who owes who. I created a website for my friends to use with Next.js and connected my algorithm with a Flask backend, and published it using Vercel.",
+      "link": "https://settlit.vercel.app",
+      "emoji": "♠️"
+    },
+    {
+      "title": "Stock Volatility and Social Media Mention Correlation",
+      "language": ["python"],
+      "description": "I parsed Twitter and Reddit datasets for stock mentions, and transformed the data so that it would represent daily stock mention data . I joined this data with the daily stock price data and analyzed it for statistical significance between number of mentions and stock volatility.",
+      "link": "https://github.com/natcasd/stockscrapers",
+      "emoji": "📈"
+    },
+    {
+      "title": "Campfire Stories",
+      "language": ["javascript", "react"],
+      "description": "I built a website for a Hackathon that generates campfire stories using the OpenAI Text-Davinci-003 model.",
+      "link": "https://github.com/jrbyers/CampfireStories",
+      "emoji": "🔥"
+    },
+
+    {
+      "title": "Music Genre Classifier",
+      "language": ["python"],
+      "description": "I created a music genre classifier in Pytorch. It was trained on a music dataset of .wav files which I processed into mel spectrograms, a visual depiction of sound. I used a VGG-16 model with pre-trained weights. This was able to boost the accuracy and decrease training time through transfer learning. I achieved an accuracy of 75 percent over 10 genres.",
+      "link": "https://github.com/natcasd/DL-Final-Project",
+      "emoji": "🎸"
+    },
+
+    {
+      "title": "SpacePals",
+      "language": ["typescript", "next.js", "node.js", "mongodb", "python"],
+      "description": "I led developement of a webapp that allows users to 'capture' different space animals by taking pictures of them. I engineered the frontend system for taking photos and storing caught creatures, and connected it to the backend classification model.",
+      "emoji": "👽"
+    }
+  ]
+}

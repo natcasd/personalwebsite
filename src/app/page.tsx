@@ -18,12 +18,14 @@ export default function About() {
               <p className="mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-7xl xl:text-7xl text-black">
                 Hi! I&apos;m <u>Nathan</u>.
               </p>
-              <p className="text-sm sm:text-base md:text-lg">
-                I am a Master&apos;s student at Brown University studying
-                Computer Science. I am from Greenville, South Carolina. I am
-                passionate about financial markets, artificial intelligence, and
-                the intersection of the two. In my free time I love to cook,
-                watch soccer, play tennis, play poker, and slackline.
+
+              <p className="text-sm sm:text-base md:text-lg border-black rounded-lg">
+                I am passionate about machine learning and the ways it can be
+                used to improve the world. I am currently living in Providence,
+                Rhode Island, pursuing a Master&apos;s in computer science from
+                Brown University. I am originally from Greenville, South
+                Carolina. In my free time I love to cook, watch soccer, play
+                tennis, play poker, and slackline.
               </p>
             </div>
           </div>

@@ -36,6 +36,13 @@
       "emoji": "📈"
     },
     {
+      "title": "BDIG Club Website",
+      "language": ["typescript", "next.js", "Contentful"],
+      "description": "I created a club website with Typescript and Next.js. I integrated a Contentful content management system to enable non-technical users to update and manage content. This replaced the Squarespace site the club was using.",
+      "link": "https://bdigwebsite.vercel.app",
+      "emoji": "🔨"
+    },
+    {
       "title": "Campfire Stories",
       "language": ["javascript", "react"],
       "description": "I built a website for a Hackathon that generates campfire stories using the OpenAI Text-Davinci-003 model.",
